@@ -1,3 +1,4 @@
+
 var  populationArray=[];
 var maxPopulation;
 var isOverPopulated;
@@ -69,3 +70,4 @@ if(populationArray[2]< 100,000 && populationArray[3] <100,000 && populationArray
         console.log ("Large cities!!!");
 
 }
+
